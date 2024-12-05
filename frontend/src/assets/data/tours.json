@@ -1,0 +1,135 @@
+[
+  {
+    "title":"Dubai Dazzle",
+    "city": "Dubai",
+    "address": "Dubai, United Arab Emirates",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Known for its modern architecture, luxury shopping, the Burj Khalifa, and vibrant nightlife.",
+    "reviews": [],
+
+    "photo": "/tour-images/dubai1.jpg",
+    "featured": true
+  },
+  {
+    "title": "Singapore Spectacle",
+    "city": "Singapore",
+    "address": "Singapore",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": " A global financial hub with a tropical climate, known for its cleanliness, Marina Bay Sands, and vibrant food scene.",
+    "reviews": [],
+
+    "photo": "/tour-images/singapore1.jpg",
+    "featured": true
+  },
+  {
+    "title": "Toronto Treasures",
+    "city": "Toronto",
+    "address": "Toronto, Canada",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 15,
+    "desc": "The largest city in Canada, known for the CN Tower, multicultural neighborhoods, and proximity to Niagara Falls.",
+    "reviews": [],
+
+    "photo": "/tour-images/toronto1.jpg",
+    "featured": true
+  },
+  {
+    "title": "Seoul Serenity",
+    "city": "Seoul",
+    "address": "Seoul, South Korean",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "The capital city, known for its palaces, high-tech subways, pop culture, and historical landmarks.",
+    "reviews": [],
+
+    "photo": "/tour-images/seoul1.jpg",
+    "featured": true
+  },
+  {
+    "title": "Barcelona Brilliance",
+    "city": "Barcelona",
+    "address": "Barcelona, Spain",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": " Known for its unique architecture by Antoni Gaudí, including the Sagrada Família, beautiful beaches, and vibrant cultural scene.",
+    "reviews": [],
+
+    "photo": "/tour-images/barcelona1.jpg",
+    "featured": true
+  },
+  {
+    "title": "Venetian Vibes",
+    "city": "Venecie",
+    "address": "Venice, Italy",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Known for its canals, gondolas, St. Mark's Basilica, and its unique, romantic architecture.",
+    "reviews": [],
+
+    "photo": "/tour-images/venice1.jpg",
+    "featured": true
+  },
+
+
+
+  {
+    "title": "Istanbul Unveiled",
+    "city": "Istanbul",
+    "address": "Istanbul, Turkey",
+    "distance": 780,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "A city that straddles Europe and Asia, known for its historic sites such as the Hagia Sophia, Blue Mosque, and Topkapi Palace.",
+    "reviews": [],
+
+    "photo": "/tour-images/istanbul.jpg",
+    "featured": true
+  },
+  {
+    "title": "Ancient Cairo",
+    "city": "Cairo",
+    "address": "Cairo, Egypt",
+    "distance": 1800,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Home to the Pyramids of Giza, the Sphinx, and the Egyptian Museum, Cairo is steeped in ancient history.",
+    "reviews": [],
+
+    "photo": "/tour-images/egypt.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bangkok's Best",
+    "city": "Bangkokt",
+    "address": "Bangkok, Thailand",
+    "distance": 8300,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "Known for its vibrant street life, ornate temples such as Wat Arun and Wat Phra Kaew, and bustling markets.",
+    "reviews": [],
+
+    "photo": "/tour-images/bangkok.jpg",
+    "featured": false
+  },
+  {
+    "title": "London Calling",
+    "city": "London",
+    "address": "London, United Kingdom",
+    "distance": 1900,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "The capital city of the UK, famous for landmarks like the Big Ben, Buckingham Palace, the Tower of London, and its diverse cultural scene.",
+    "reviews": [],
+
+    "photo": "/tour-images/london.jpg",
+    "featured": false
+  }
+]

@@ -1,0 +1,155 @@
+
+
+.hero__content h1{
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  color: #312a2a7c;
+ 
+}
+
+.hero__content h1 .highlight{
+  color: #312a2a7c;
+}
+
+.hero__content p{
+  font-size: 1.1rem;
+  color: var(--text-color);
+  line-height: 2rem;
+
+}
+
+.hero__img-box video{
+  width: 300%;
+  height: 350px;
+  border-radius: 20px;
+  border: none;
+  object-fit: cover;
+}
+
+.hero__content{
+  padding-top:3.5rem ;
+}
+
+.hero__img-box{
+  padding-top: 2rem;
+}
+
+
+
+.service__title{
+  font-size: 2.5rem;
+  font-weight: 500;
+
+}
+
+
+.featured__tour-title{
+  font-size: 2.3rem;
+  font-weight: 500;
+}
+
+
+.experience__content h2{
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  font-weight: 500;
+  
+}
+
+.experience__content p{
+  font-size: 1.1rem;
+  color: var(--text-color);
+  margin: 1rem;
+}
+
+.counter__wrapper{
+  margin-top: 2.5rem;
+}
+
+.counter__box span{
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1341a39c;
+  color: #ffffff;
+  font-size: 1.6rem;
+  font-weight: 600;
+  border-radius: 10px 5px 10px 5px;
+}
+
+.counter__box h6{
+  font-size: 1.1rem;
+  margin-top: 0.7rem;
+  color: var(--text-color);
+}
+
+.experience__img{
+  width: 70%;
+  margin: auto;
+}
+
+.gallery__title{
+  font-size: 2.3rem;
+  margin-bottom: 2.5rem;
+  margin-top: 1rem;
+}
+
+.masonry__img {
+  transition: 0.5s;
+}
+
+.masonry__img:hover {
+  transform: scale(1.1);
+}
+
+.testimonial__title{
+  font-size: 2.3rem;
+  margin-top: 1rem;
+
+}
+
+@media only screen and (max-width:992px){
+  .hero__content h1{
+    font-size: 2.7rem;
+  }
+  
+  .hero__video-box{
+    display: block;
+    width: 230px;
+  height: 350px;
+  }
+  .service__title, 
+  .featured__tour-title,
+  .gallery__title,
+  .testimonial__title,
+  .experience__content h2{
+    font-size: 2rem;
+  }  
+  .experience__img{
+    margin-top: 2rem;
+  }
+}
+
+@media only screen and (max-width:576px){
+  .hero__content h1{
+    font-size: 1.8rem;
+  }
+  .hero__video-box{
+    display: none;
+  }
+  .service__title, 
+  .featured__tour-title,
+  .gallery__title,
+  .testimonial__title,
+  .experience__content h2{
+    font-size: 1.5rem;
+  }
+  .experience__img{
+    display: none;
+  }
+}
